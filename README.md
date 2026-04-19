@@ -2,13 +2,17 @@
 A simple PCB business card that anyone can use! That's literally it.
 
 **THE FINAL PRODUCT! (censored because personal information...)**
-<img width="810" height="555" alt="Front" src="https://github.com/user-attachments/assets/70badd5f-a6c2-4e8e-9a8e-0cfe5da2f703" />
-<img width="810" height="555" alt="Back" src="https://github.com/user-attachments/assets/da6117a3-5a39-4fa8-b974-2a3412a0f7be" />
+<img width="851" height="567" alt="Screenshot 2026-04-18 at 8 50 16 PM" src="https://github.com/user-attachments/assets/7c32926a-3b03-4f5c-ae2e-c347cc582962" />
+<img width="1001" height="990" alt="SaxCard" src="https://github.com/user-attachments/assets/37857d89-3218-4cd3-aaf3-7bdf5c7fb0ac" />
 
-**PCB VIEW (no schematic)**
+
+**PCB VIEW**
 <img width="846" height="672" alt="Screenshot 2026-04-03 at 10 54 50 AM" src="https://github.com/user-attachments/assets/b9dfd732-a623-4e0e-ae6f-ef497dbfab34" />
 <img width="846" height="672" alt="Screenshot 2026-04-03 at 10 55 09 AM" src="https://github.com/user-attachments/assets/48ea243c-8505-4683-80ba-1c8a0fa3d4eb" />
 
-**Thats all! For the low low cost of 5 dollars!**
+**SCHEMATIC**
+<img width="1323" height="709" alt="Screenshot 2026-04-18 at 8 54 10 PM" src="https://github.com/user-attachments/assets/60117683-7f68-4d73-9433-8937cc58261d" />
+
+**Thats all!**
 
 <img width="368" height="353" alt="Screenshot 2026-04-03 at 11 54 36 AM" src="https://github.com/user-attachments/assets/a895a286-5cc5-488e-9a52-fc2d1009a4a6" />
