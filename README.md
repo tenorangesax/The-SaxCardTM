@@ -7,8 +7,10 @@ A simple PCB business card with an NFC and a blinking LED that anyone can use! T
 
 
 **PCB VIEW**
-<img width="846" height="672" alt="Screenshot 2026-04-03 at 10 54 50 AM" src="https://github.com/user-attachments/assets/b9dfd732-a623-4e0e-ae6f-ef497dbfab34" />
-<img width="846" height="672" alt="Screenshot 2026-04-03 at 10 55 09 AM" src="https://github.com/user-attachments/assets/48ea243c-8505-4683-80ba-1c8a0fa3d4eb" />
+<img width="1144" height="721" alt="Screenshot 2026-04-18 at 9 01 01 PM" src="https://github.com/user-attachments/assets/d88321b4-dcc6-4137-ae21-a7b7b3934752" />
+<img width="1144" height="721" alt="Screenshot 2026-04-18 at 9 00 57 PM" src="https://github.com/user-attachments/assets/57976d7b-aadd-40d1-a684-430dc3cfe1d0" />
+<img width="1144" height="721" alt="Screenshot 2026-04-18 at 9 00 47 PM" src="https://github.com/user-attachments/assets/1c8a3c9b-2c36-4bb0-8170-7a751f84fee7" />
+
 
 **SCHEMATIC**
 <img width="1323" height="709" alt="Screenshot 2026-04-18 at 8 54 10 PM" src="https://github.com/user-attachments/assets/60117683-7f68-4d73-9433-8937cc58261d" />
